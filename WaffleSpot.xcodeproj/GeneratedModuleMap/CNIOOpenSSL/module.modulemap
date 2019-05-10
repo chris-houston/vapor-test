@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/chouston1/Documents/Projects/Vapor/WaffleSpot/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
